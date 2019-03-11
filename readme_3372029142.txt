@@ -1,0 +1,4 @@
+Name: Junquan Yu
+E-mail address: junquany@usc.edu
+Summary of Program: According to the Lab6 document PDF, i filled the program about the network in part 1 and also wrote the different sort methods in part 2. I tested it under my OS system and they all performed as expected and produced the correct results.
+Other info: For part 2, the input format, if the compiled file is named test.o, is ./test input output 10(the number of number in your input file) bubblesort(the name of the sort method). 
